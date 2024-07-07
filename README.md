@@ -58,8 +58,11 @@ A project focusing on mathematical models to solve real-world problems, combinin
 
 ## 📈 GitHub Stats
 
-![K11E3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=K11E3R&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K11E3R&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K11E3R&theme=radical" alt="GitHub Streak Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K11E3R&layout=compact&theme=radical&hide=c,c%2B%2B" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K11E3R&show_icons=true&theme=radical&hide=contribs,prs" alt="K11E3R's GitHub Stats" />
+</div>
 
 ---
 
