@@ -17,7 +17,6 @@ I'm a dedicated data science student at Zone01, passionate about AI, mathematica
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
