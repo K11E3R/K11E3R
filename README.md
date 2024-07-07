@@ -56,6 +56,14 @@ A project focusing on mathematical models to solve real-world problems, combinin
 
 ---
 
+## 🌟 Competitive Coding Profiles
+
+<!-- [LeetCode](https://leetcode.com/u/YassineNaanani/) -->
+- [CodeWars](https://www.codewars.com/users/yassinenaanani)
+- [Codingame](https://www.codingame.com/profile/486fb13a5ec259f2c0d50453d80257dd9394555)
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
