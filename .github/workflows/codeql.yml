@@ -10,16 +10,8 @@ on:
 
 jobs:
   analyze:
-    name: Analyze CodeQL (${{ matrix.language }})
+    name: Analyze CodeQL
     runs-on: ubuntu-latest  # Default runner
-
-    strategy:
-      matrix:
-        language:
-          - "java-kotlin"
-          - "javascript-typescript"
-          - "python"
-        build-mode: ["default"]  # Adjust build mode as needed
 
     steps:
       - name: Checkout repository
@@ -27,16 +19,6 @@ jobs:
 
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v3
-        with:
-          languages: ${{ matrix.language }}
-          build-mode: ${{ matrix.build-mode }}
-          # Specify custom queries if needed
-          # queries: security-extended, security-and-quality
 
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v3
-        with:
-          # Specify the path to the QL packs if custom ones are used
-          # qlpacks: ./path/to/qlpacks
-          # Configuration for specific language analysis
-          category: "/language:${{ matrix.language }}"
