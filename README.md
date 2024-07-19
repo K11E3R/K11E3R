@@ -1,6 +1,15 @@
-# Hi there, I'm Yassine Naanani <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+<p align="center">
+<a href="https://github.com/K11E3R"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=1000&pause=10000&color=18F7E6&width=700&lines=Hi+there%2C+I'm+Yassine+Naanani+%F0%9F%91%8B+" alt="Typing SVG" /></a>
+</p>
 
-I'm a data science student at Zone01 with a passion for AI, mathematical modeling, and software development. Originally from Morocco, I moved to France to advance my studies. Explore my journey and work below!
+I'm a data science student at Zone01 with a passion for AI, mathematical modeling, and software development. Originally from Morocco, I moved to France to advance my studies. Explore my journey and work below! 
+
+<p align="right">
+  <a href="https://github.com/K11E3R">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=K11E3R" style="border-radius: 5px; background-color: #00BDCFFF; color: black; font-size: 14px;">
+  </a>
+</p>
+                
 
 ---
 
@@ -46,6 +55,25 @@ I'm a data science student at Zone01 with a passion for AI, mathematical modelin
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K11E3R&layout=compact&theme=radical&hide=c,c%2B%2B" alt="Top Languages" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=K11E3R&theme=radical" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=K11E3R&rank_icon=github&theme=radical" alt="K11E3R's GitHub Stats" />
+
+
+</div>
+
+---
+
+## 🌟 Competitive Coding Profiles
+
+- [Codingame](https://www.codingame.com/profile/486fb13a5ec259f2c0d50453d80257dd9394555)
+- [LeetCode](https://leetcode.com/u/K11E3R/)
+- [CodeWars](https://www.codewars.com/users/yassinenaanani)
+  
+---
 ## 🚀 Projects
 
 ### 1. Advanced Data Analysis
@@ -74,25 +102,6 @@ Focused on solving real-world problems with mathematical models.
 
 ---
 
-## 🌟 Competitive Coding Profiles
-
-- [Codingame](https://www.codingame.com/profile/486fb13a5ec259f2c0d50453d80257dd9394555)
-- [LeetCode](https://leetcode.com/u/K11E3R/)
-- [CodeWars](https://www.codewars.com/users/yassinenaanani)
-  
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K11E3R&layout=compact&theme=radical&hide=c,c%2B%2B" alt="Top Languages" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=K11E3R&theme=radical" alt="GitHub Streak Stats" />
-        <img src="https://github-readme-stats.vercel.app/api?username=K11E3R&rank_icon=github&theme=radical" alt="K11E3R's GitHub Stats" />
-
-
-</div>
-
----
 
 ## 📫 Connect with Me
 
@@ -100,7 +109,7 @@ Focused on solving real-world problems with mathematical models.
 - [Email](mailto:prs.online.00@gmail.com)
 
 ---
-
+<!--
 ## 🎯 Goals for 2024
 
 1. **Develop Advanced Algorithms**:
@@ -126,9 +135,8 @@ Focused on solving real-world problems with mathematical models.
 6. **Solve Complex Problems**:
    - **Work on High-Impact Projects**: Identify and tackle challenging projects that have the potential to make significant contributions to technology and society.
    - **Focus on Innovative Solutions**: Develop creative and effective solutions to pressing problems in the field of AI and data science.
+-->
 
-
----
 
 <div align="center">
     <p>Looking forward to connecting and collaborating on exciting projects!</p>
