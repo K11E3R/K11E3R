@@ -9,7 +9,7 @@ I'm a data science student at Zone01 with a passion for AI, mathematical modelin
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=K11E3R">
   </a>
 </p>
-         
+
 
 ---
 
@@ -53,14 +53,28 @@ I'm a data science student at Zone01 with a passion for AI, mathematical modelin
     <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white" alt="GCP" />
 </div>
 
+<!--
 ---
 
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Kiran1689">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=K11E3R&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=K11E3R&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=K11E3R&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
+-->
+---
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K11E3R&layout=compact&theme=radical&hide=c,c%2B%2B" alt="Top Languages" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=K11E3R&theme=radical" alt="GitHub Streak Stats" />
         <img src="https://github-readme-stats.vercel.app/api?username=K11E3R&rank_icon=github&theme=radical" alt="K11E3R's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K11E3R&layout=compact&theme=radical&hide=c,c%2B%2B" alt="Top Languages" />
 
 
 </div>
