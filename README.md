@@ -6,16 +6,7 @@ I'm a data science student at Zone01 with a passion for AI, mathematical modelin
 
 <p align="right">
   <a href="https://github.com/K11E3R">
-    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=K11E3R" style="
-      background-color: #1e1e1e; 
-      color: #ffffff; 
-      font-size: 14px; 
-      padding: 10px 20px; 
-      border-radius: 8px; 
-      border: 1px solid #333333; 
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    ">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=K11E3R">
   </a>
 </p>
          
