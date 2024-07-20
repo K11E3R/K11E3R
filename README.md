@@ -6,10 +6,19 @@ I'm a data science student at Zone01 with a passion for AI, mathematical modelin
 
 <p align="right">
   <a href="https://github.com/K11E3R">
-    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=K11E3R" style="border-radius: 5px; background-color: #00BDCFFF; color: black; font-size: 14px;">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=K11E3R" style="
+      background-color: #1e1e1e; 
+      color: #ffffff; 
+      font-size: 14px; 
+      padding: 10px 20px; 
+      border-radius: 8px; 
+      border: 1px solid #333333; 
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    ">
   </a>
 </p>
-                
+         
 
 ---
 
@@ -105,7 +114,7 @@ Focused on solving real-world problems with mathematical models.
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yassine-naanani-5332a7a0/)
+- [LinkedIn](https://www.linkedin.com/in/yassine-naanani-5332a7a0/) 
 - [Email](mailto:prs.online.00@gmail.com)
 
 ---
@@ -139,5 +148,5 @@ Focused on solving real-world problems with mathematical models.
 
 
 <div align="center">
-    <p>Looking forward to connecting and collaborating on exciting projects!</p>
+    <p>Looking forward to connecting and collaborating on exciting projects! </p>
 </div>
