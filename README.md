@@ -115,7 +115,7 @@ Focused on solving real-world problems with mathematical models.
 ## 📊 Recent GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K11E3R&theme=react-dark" alt="Recent GitHub Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K11E3R&theme=rogue" alt="Recent GitHub Activity" width="100%" />
 </p>
 
 <div align="center">
