@@ -105,8 +105,9 @@ Focused on solving real-world problems with mathematical models.
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yassine-naanani-5332a7a0/) 
-- [Email](mailto:prs.online.00@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yassine-naanani-5332a7a0/)
+- 📧 [Email](mailto:prs.online.00@gmail.com)
+
 
 ---
 <!--
