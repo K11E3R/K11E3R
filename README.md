@@ -118,6 +118,9 @@ Focused on solving real-world problems with mathematical models.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=K11E3R&theme=rogue" alt="Recent GitHub Activity" width="100%" />
 </p>
 
+---
+
 <div align="center">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
     <p>Looking forward to connecting and collaborating on exciting projects!</p>
 </div>
