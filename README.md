@@ -121,6 +121,5 @@ Focused on solving real-world problems with mathematical models.
 ---
 
 <div align="center">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-    <p>Looking forward to connecting and collaborating on exciting projects!</p>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">     <p>Looking forward to connecting and collaborating on exciting projects!</p>
 </div>
