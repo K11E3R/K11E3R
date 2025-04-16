@@ -63,7 +63,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=K11E3R&theme=radical" alt="GitHub Streak Stats" />
     <img src="https://github-readme-stats.vercel.app/api?username=K11E3R&rank_icon=github&theme=radical" alt="K11E3R's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K11E3R&layout=compact&theme=radical&hide=c,c%2B%2B" alt="Top Languages" />
 </div>
