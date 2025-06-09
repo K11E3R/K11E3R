@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://github.com/K11E3R">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=1000&pause=10000&color=18F7E6&width=700&lines=Hey%2C+I'm+Yassine+Naanani+%F0%9F%8C%90;AI+Engineer+%7C+System+Designer+%7C+Full-Stack+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F7E6&center=true&width=900&height=80&lines=Hey%2C+I'm+Yassine+Naanani+%F0%9F%8C%90;AI+Engineer+%E2%9A%96+Architect+of+Intelligent+Systems;Builder+of+Full-Stack+Platforms+%E2%9A%99;Code+Alchemist+%7C+Math+Modeler+%7C+Odoo+Wizard;RAG%2C+Agents%2C+LLMs%2C+and+Beyond+%F0%9F%9A%80;Let's+build+the+future+together+%F0%9F%9A%80"
+    alt="Typing SVG" />
   </a>
 </p>
+
 
 <p align="center">
   I'm an AI engineer deeply driven by the architecture of intelligence. From low-level system logic to high-level multi-agent design, I build tech that thinks. I started my journey in Morocco and scaled it in France — now I’m crafting solutions that merge AI, mathematics, and full-stack power.
