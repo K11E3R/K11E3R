@@ -8,9 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=K11E3R&style=flat-square&color=76E0FF" alt="Profile Views"/>
 </p>
 
+
 <p align="center">
   <strong style="color:#76E0FF;">AI Engineer • System Architect • Full‑Stack Innovator</strong><br>
   <em>Designing next‑gen intelligent systems that power real business impact.</em>
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/yassine-naanani-5332a7a0/" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
+  <a href="mailto:prs.online.00@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> • 
+  <a href="http://k11e3r.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </p>
 
 
@@ -104,7 +110,7 @@
   I help teams architect AI-powered platforms, automate workflows, and unlock next-level project intelligence.
   <a href="https://www.linkedin.com/in/yassine-naanani-5332a7a0/" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
   <a href="mailto:prs.online.00@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> • 
-  <a href="https://k11e3r.dev" target="_blank" rel="noopener noreferrer">Portfolio</a>
+  <a href="http://k11e3r.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </p>
 
 
