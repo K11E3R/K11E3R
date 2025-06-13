@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=K11E3R&style=flat-square&color=76E0FF" alt="Profile Views"/>
 </p>
 
+<p align="center"><em>Working at <a href="https://www.subteno.com/" target="_blank">Subteno</a> — where Odoo meets AI</em></p>
 
 <p align="center">
   <strong style="color:#76E0FF;">AI Engineer • System Architect • Full‑Stack Innovator</strong><br>
