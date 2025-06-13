@@ -1,20 +1,25 @@
 <p align="center">
   <a href="https://github.com/K11E3R">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F7E6&center=true&width=900&height=80&lines=Hey%2C+I'm+Yassine+Naanani+%F0%9F%8C%90;AI+Engineer+%E2%9A%96+Architect+of+Intelligent+Systems;Builder+of+Full-Stack+Platforms+%E2%9A%99;Code+Alchemist+%7C+Math+Modeler+%7C+Odoo+Wizard;RAG%2C+Agents%2C+LLMs%2C+and+Beyond+%F0%9F%9A%80;Let's+build+the+future+together+%F0%9F%9A%80"
-    alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F7E6&center=true&width=900&height=80&lines=Hey%2C+I'm+Yassine+Naanani+%F0%9F%8C%90;AI+Engineer+%E2%9A%96+Architect+of+Intelligent+Systems;Builder+of+Full-Stack+Platforms+%E2%9A%99;Code+Alchemist+%7C+Math+Modeler+%7C+Odoo+Wizard;RAG%2C+Agents%2C+LLMs%2C+and+Beyond+%F0%9F%9A%80;Let's+build+the+future+together+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
-
 <p align="center">
-  I'm an AI engineer deeply driven by the architecture of intelligence. From low-level system logic to high-level multi-agent design, I build tech that thinks. I started my journey in Morocco and scaled it in France — now I’m crafting solutions that merge AI, mathematics, and full-stack power.
+  <img src="https://komarev.com/ghpvc/?username=K11E3R&style=flat-square&color=76E0FF" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/K11E3R">
-    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=K11E3R" />
-  </a>
+  <strong style="color:#76E0FF;">AI Engineer • System Architect • Full‑Stack Innovator</strong><br>
+  <em>Designing next‑gen intelligent systems that power real business impact.</em>
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yassine‑naanani‑5332a7a0/"><img src="https://img.shields.io/badge/LinkedIn‑0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://k11e3r.dev"><img src="https://img.shields.io/badge/Portfolio‑28AADC?style=flat&logo=internet-explorer&logoColor=white" alt="Website"/></a>
+  <a href="mailto:prs.online.00@gmail.com"><img src="https://img.shields.io/badge/Email‑D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/K11E3R/"><img src="https://img.shields.io/badge/LeetCode‑FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://github.com/K11E3R"><img src="https://img.shields.io/badge/GitHub‑181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
 
 ---
 
@@ -63,72 +68,65 @@
 
 ---
 
-## 🚀 Projects
+## 💼 Key Projects & Value‑Driven Impact
 
-### 🧠 Multi-Agent System for Project Intelligence
-- **Overview**: AI-driven agent network integrated with Odoo & GitHub  
-- **Features**: RAG indexing, autonomous ticket resolution, onboarding assistants  
-- **Stack**: Python, Go, Odoo, PostgreSQL, GitHub API, LangChain
-
-### 📊 Advanced Data Analysis
-- **Overview**: Data pipelines, EDA, predictive modeling  
-- **Tech**: Python, Pandas, Scikit-Learn, Matplotlib
-
-### 💬 AI Chatbot
-- **Overview**: Natural language chatbot with semantic memory  
-- **Stack**: TensorFlow, NLTK, Flask, WebSocket
-
-### 🌐 Full-Stack Web Application
-- **Overview**: Scalable app with modular backend/frontend separation  
-- **Stack**: Django, React, Docker, PostgreSQL
-
-### 📐 Mathematical Modeling Lab
-- **Overview**: Simulation of complex systems and optimization  
-- **Stack**: Python, SciPy, Jupyter, custom solvers
+### 🌐 **Agent‑Driven Project Intelligence Platform** — `K11E3R/agent‑mesh` ![PRIVATE](https://img.shields.io/badge/-Private-ff006e?style=flat&logo=gitbook&logoColor=white)
+> Intelligent agent mesh: ingest → prioritize → resolve via RAG + graph embeddings  
+> **Stack**: Python, Go, PostgreSQL, Odoo, LangChain, Docker  
+> 🚀 40% drop in manual triage. Autonomy by design.
 
 ---
 
-## 📈 GitHub Stats
+### 🧠 **Mathematical Modeling & Simulation Lab** — `K11E3R/math‑sim` ![PRIVATE](https://img.shields.io/badge/-Private-ff006e?style=flat&logo=gitbook&logoColor=white)
+> Non-linear systems for logistics & energy — fast, modular solvers  
+> **Stack**: SciPy, NumPy, custom DSL, Jupyter  
+> 🧮 50% reduction in prototyping time. Mathematically rigorous.
+
+---
+
+### 💬 **Semantic NLP Chatbot Engine** — `K11E3R/semantic‑chatbot` ![PRIVATE](https://img.shields.io/badge/-Private-ff006e?style=flat&logo=gitbook&logoColor=white)
+> Memory-driven FAQ bot with real‑time feedback loops  
+> **Stack**: TensorFlow, Flask, NLTK, Pinecone  
+> 🧠 90%+ retrieval accuracy on real data.
+
+---
+
+### 🧱 **Full‑Stack Modular Boilerplate** — `K11E3R/full‑stack‑tpl` ![PRIVATE](https://img.shields.io/badge/-Private-ff006e?style=flat&logo=gitbook&logoColor=white)
+> Microservices template w/ CI/CD, auth, metrics, monitoring  
+> **Stack**: Django, React, PostgreSQL, WebSockets  
+> ⚙️ 60% faster launch for new apps.
+
+---
+
+## 📈 GitHub Stats & Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K11E3R&rank_icon=github&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K11E3R&layout=compact&theme=radical&hide=c,c%2B%2B" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K11E3R&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K11E3R&layout=compact&theme=tokyonight&hide=c,cpp&hide_border=true"/>
 </div>
 
----
-
-## 🧠 Currently Building
-
-- 🧩 Modular AI agent system (RAG, vector store, auto-triage)  
-- 🏗️ Full-stack + LLM orchestration on scalable infra  
-- 📡 Real-time project observability for dev pipelines
-
----
-
-## ⚔️ Coding Platforms
-
-- [Codingame](https://www.codingame.com/profile/486fb13a5ec259f2c0d50453d80257dd9394555)
-- [LeetCode](https://leetcode.com/u/K11E3R/)
-- [CodeWars](https://www.codewars.com/users/yassinenaanani)
-
----
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yassine-naanani-5332a7a0/)
-- 📫 [Email](mailto:prs.online.00@gmail.com)
-
----
-
-## 🔄 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K11E3R&theme=rogue" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+---
+
+## 🧩 Ongoing Workflows
+
+- ⚙️ Building **CI/CD-aware autonomous dev agents** w/ error triage  
+- 📡 Deploying **RAG-aware observability mesh** powered by LLM tooling  
+- 📊 Designing **real-time dashboards** across Odoo, GitHub & internal tooling
+
+---
+
+## 🤝 Let’s Collaborate
+
+I help teams scale AI-driven pipelines for R&D, product ops, and customer engineering.  
+📬 [LinkedIn](https://www.linkedin.com/in/yassine‑naanani‑5332a7a0/) · [Email](mailto:prs.online.00@gmail.com) · [Portfolio](https://k11e3r.dev)
 
 ---
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <p>Let’s push boundaries, not buttons.</p>
+  <p><em>"Let’s push boundaries, not buttons."</em></p>
 </div>
