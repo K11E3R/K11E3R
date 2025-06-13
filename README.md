@@ -13,58 +13,37 @@
   <em>Designing next‑gen intelligent systems that power real business impact.</em>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yassine‑naanani‑5332a7a0/"><img src="https://img.shields.io/badge/LinkedIn‑0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://k11e3r.dev"><img src="https://img.shields.io/badge/Portfolio‑28AADC?style=flat&logo=internet-explorer&logoColor=white" alt="Website"/></a>
-  <a href="mailto:prs.online.00@gmail.com"><img src="https://img.shields.io/badge/Email‑D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://leetcode.com/u/K11E3R/"><img src="https://img.shields.io/badge/LeetCode‑FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://github.com/K11E3R"><img src="https://img.shields.io/badge/GitHub‑181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
 
 ---
-
-## 🛠️ Core Stack & Toolset
 
 <div align="center">
 
 <!-- Languages -->
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-SPARQL-2B4F60?logo=semantic-web&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&animation=glow" alt="Python"/>
+<img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge&animation=glow" alt="Rust"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge&animation=glow" alt="Go"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&animation=glow" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge&animation=glow" alt="SQL"/>
 
 <!-- AI/ML -->
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/-Scikit--Learn-F3C02E?logo=scikit-learn&logoColor=black" />
-<img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge&animation=glow" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge&animation=glow" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white&style=for-the-badge&animation=glow" alt="LangChain"/>
+<img src="https://img.shields.io/badge/-Pinecone-007AC2?logo=pinecone&logoColor=white&style=for-the-badge&animation=glow" alt="Pinecone"/>
 
-<!-- Backend & Infra -->
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+<!-- Backend & DevOps -->
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&animation=glow" alt="Docker"/>
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge&animation=glow" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/-Odoo-7B3F00?logo=odoo&logoColor=white&style=for-the-badge&animation=glow" alt="Odoo"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge&animation=glow" alt="PostgreSQL"/>
 
-<!-- Cloud & DevOps -->
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white" />
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" />
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge&animation=glow" alt="AWS"/>
+<img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge&animation=glow" alt="Azure"/>
+<img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&animation=glow" alt="GCP"/>
 
 </div>
+
 
 ---
 
@@ -111,22 +90,27 @@
 
 ---
 
-## 🧩 Ongoing Workflows
+# 🧩 What I’m Building Now
 
-- ⚙️ Building **CI/CD-aware autonomous dev agents** w/ error triage  
-- 📡 Deploying **RAG-aware observability mesh** powered by LLM tooling  
-- 📊 Designing **real-time dashboards** across Odoo, GitHub & internal tooling
-
----
-
-## 🤝 Let’s Collaborate
-
-I help teams scale AI-driven pipelines for R&D, product ops, and customer engineering.  
-📬 [LinkedIn](https://www.linkedin.com/in/yassine‑naanani‑5332a7a0/) · [Email](mailto:prs.online.00@gmail.com) · [Portfolio](https://k11e3r.dev)
+- ![GithubGitlabGIF](https://github.com/user-attachments/assets/83e40f5f-7fa3-4830-a79d-4c597cb73a90)
+- ⚙️ Autonomous developer agents integrated with CI/CD pipelines — error triage and auto-resolutions ✅
+- 📡 Real-time observability mesh powered by LLMs and vector embeddings
+- ![CaughtAnGIF](https://github.com/user-attachments/assets/82bb44c0-6209-42aa-9eaf-892da0be6079)
+- 📊 Interactive dashboards connecting Odoo ERP, GitHub workflows, and internal analytics!
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <p><em>"Let’s push boundaries, not buttons."</em></p>
-</div>
+<p align="center">
+  I help teams architect AI-powered platforms, automate workflows, and unlock next-level project intelligence.
+  <a href="https://www.linkedin.com/in/yassine-naanani-5332a7a0/" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
+  <a href="mailto:prs.online.00@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> • 
+  <a href="https://k11e3r.dev" target="_blank" rel="noopener noreferrer">Portfolio</a>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Let's push boundaries"/>
+  <br><em>“Let’s push boundaries, not buttons.”</em>
+</p>
