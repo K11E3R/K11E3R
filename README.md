@@ -11,9 +11,7 @@
 <p align="center"><em>Working at <a href="https://www.subteno.com/" target="_blank">Subteno</a> — where Odoo meets AI</em></p>
 
 <p align="center">
-  <strong style="color:#76E0FF;">AI Engineer • System Architect • Full‑Stack Innovator</strong><br>
-  <em>Designing next‑gen intelligent systems that power real business impact.</em>
-  <br>
+  <strong style="color:#76E0FF;">Data Eng • Full‑Stack</strong><br>
   <br>
   <a href="https://www.linkedin.com/in/yassine-naanani-5332a7a0/" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
   <a href="mailto:prs.online.00@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> • 
