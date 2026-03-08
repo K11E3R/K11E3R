@@ -19,7 +19,7 @@
 ```javascript
 const yassine = {
     location: "France 🇫🇷",
-    role: "Software Engineer @ Subteno",
+    role: "Data engineer @ Subteno",
     
     expertise: {
         ai_ml: ["RAG Systems", "LLMs", "Computer Vision", "NLP", "Signal Processing"],
@@ -40,7 +40,7 @@ const yassine = {
 };
 ```
 
-**Software Engineer** at **[Subteno](https://www.subteno.com/)** specializing in AI-powered solutions and enterprise systems.
+**Data engineer** at **[Subteno](https://www.subteno.com/)** specializing in AI-powered solutions and enterprise systems.
 
 My work bridges **artificial intelligence**, **full-stack development**, and **ERP customization**. I build systems that are not just functional, but elegant and performant.
 
