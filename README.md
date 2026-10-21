@@ -19,7 +19,7 @@
 ```javascript
 const yassine = {
     location: "France 🇫🇷",
-    role: "Data engineer @ Subteno",
+    role: "Architect AI",
     
     expertise: {
         ai_ml: ["RAG Systems", "LLMs", "Computer Vision", "NLP", "Signal Processing"],
