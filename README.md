@@ -40,7 +40,7 @@ const yassine = {
 };
 ```
 
-**Data engineer** at **[Subteno](https://www.subteno.com/)** specializing in AI-powered solutions and enterprise systems.
+**Architect AI / Owner** at **[Neurvexia](https://www.neurvexia.com/)** specializing in AI-powered solutions and enterprise systems.
 
 My work bridges **artificial intelligence**, **full-stack development**, and **ERP customization**. I build systems that are not just functional, but elegant and performant.
 
