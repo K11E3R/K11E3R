@@ -25,7 +25,7 @@ Through my company [Neurvexia](https://neurvexia.com), I help small, medium and 
 | --- | --- | --- |
 | **GhostKit** | Modular security-analysis framework for authorized testing: web scanners, AI-assisted triage, structured reports. | [Site](https://k11e3r.github.io/GhostKit/) |
 | **PO Translator** | Desktop tool that translates Odoo `.po` files with Gemini, or offline with built-in glossaries. | [Code](https://github.com/K11E3R/odoo_translator) · [Tutorial](https://k11e3r.github.io/odoo_translator/) |
-| **Moroccan Education API** | Open API for Morocco's national curriculum: levels, subjects and course content in Arabic and French. | [Code](https://github.com/K11E3R/moroccan-education-API) · [Live](https://moroccan-education-api.up.railway.app/) |
+| **Moroccan Education API** | Open API for Morocco's national curriculum: levels, subjects and course content in Arabic and French. | [Code](https://github.com/K11E3R/moroccan-education-API) |
 | **EchoPad** | Discord productivity bot: notes, polls, tasks, events and reminders across 36 slash commands. | [Discord](https://discord.com/discovery/applications/1205159587645362207/store) |
 | **AtlasPulse** | AI and IT news from eight live sources, matched to the reader's level, with a story agent. | [Live](https://atlas-pulse.netlify.app) |
 | **NASA Space Apps 2024** | Signal processing and machine learning to detect seismic events in planetary data. | [Code](https://github.com/K11E3R/Nasa-Space-Apps-Challenge) |
