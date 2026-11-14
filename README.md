@@ -43,17 +43,6 @@ More on the [work page](https://k11e3r.github.io/projects.html).
 - **Odoo analytics** — one dashboard across ERP data, GitHub workflows and internal metrics.
 - **AI security tooling** — vulnerability assessment with AI-assisted triage.
 
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=K11E3R&show_icons=true&hide_border=true&bg_color=090e0c&title_color=5fe3b0&icon_color=5fe3b0&text_color=b4c2bb&ring_color=5fe3b0" alt="GitHub statistics for K11E3R" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K11E3R&layout=compact&hide_border=true&bg_color=090e0c&title_color=5fe3b0&text_color=b4c2bb&hide=c,cpp" alt="Most used languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=K11E3R&hide_border=true&bg_color=090e0c&color=5fe3b0&line=5fe3b0&point=f1b76b&area=true&area_color=5fe3b0&radius=16" alt="Contribution activity graph" />
-
-</div>
-
 ## Contact
 
 Tell me what you run today and what is getting in the way. I answer by email at [contact@neurvexia.com](mailto:contact@neurvexia.com), or you can [book a call](https://neurvexia.com/book) through Neurvexia.
