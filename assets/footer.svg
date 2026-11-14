@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="k11e3r.github.io · neurvexia.com">
+  <title>k11e3r.github.io · neurvexia.com</title>
+  <defs>
+    <pattern id="g" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#1f2c27" stroke-width="1"/></pattern>
+    <radialGradient id="fade" cx="50%" cy="0%" r="90%"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    <mask id="gm"><rect width="1200" height="96" fill="url(#fade)"/></mask>
+    <clipPath id="r"><rect width="1200" height="96" rx="22"/></clipPath>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  </defs>
+  <style>
+    .s{font-family:'Segoe UI', Inter, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif} .m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace} .i{font-family:Georgia, 'Times New Roman', serif;font-style:italic}
+    @keyframes drift{to{transform:translate(60px,30px)}} @keyframes tw{50%{opacity:.25}} @keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+    @keyframes blink{50%{opacity:0}} @keyframes dash{to{stroke-dashoffset:0}} @keyframes spin{to{transform:rotate(360deg)}}
+    .up{opacity:0;animation:up .9s cubic-bezier(.22,.8,.22,1) forwards}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important} .up{opacity:1}}
+  </style>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="96" fill="#090e0c"/>
+    <rect width="1200" height="96" fill="url(#g)" mask="url(#gm)" opacity=".7"/>
+    <circle cx="140" cy="-20" r="190" fill="#5fe3b0" opacity=".16" filter="url(#blur)" style="animation:drift 14s ease-in-out infinite alternate"/>
+    <circle cx="1080" cy="106" r="170" fill="#f1b76b" opacity=".09" filter="url(#blur)" style="animation:drift 18s ease-in-out infinite alternate-reverse"/>
+    <path d="M-20 48 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0" fill="none" stroke="#2a3a33" stroke-width="1.5"/>
+    <path d="M-20 48 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0 l120 0 l40 0 l10 -22 l14 44 l12 -34 l10 12 l40 0" fill="none" stroke="#5fe3b0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="220 1400" stroke-dashoffset="1620" style="animation:dash 5s linear infinite"/>
+    <rect x="436" y="28" width="328" height="40" rx="20" fill="#090e0c" stroke="#2a3a33"/>
+    <circle cx="458" cy="48" r="4" fill="#5fe3b0"><animate attributeName="opacity" values="1;.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="610" y="53" class="m" font-size="13" fill="#b4c2bb" text-anchor="middle">k11e3r.github.io · neurvexia.com</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="95" rx="22" fill="none" stroke="#2a3a33"/>
+</svg>
